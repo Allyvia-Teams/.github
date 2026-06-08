@@ -24,7 +24,7 @@
 
 ## The Problem
 
-Today's POS systems record sales — but they don't help fashion retailers predict demand.
+Today's POS systems record sales, but they don't help fashion retailers predict demand.
 
 Store owners are constantly making inventory decisions based on instinct and delayed signals. The cost of getting it wrong is high: stockouts drive missed revenue, while excess inventory leads to markdowns and cash tied up in products that don't move.
 
