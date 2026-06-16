@@ -6,7 +6,7 @@
 
 ### AI-native POS for fashion retailers
 
-**[allyvia.co](https://allyvia.co)** &nbsp;·&nbsp; **[app.allyvia.co](https://app.allyvia.co)**
+**[allyvia.co](https://allyvia.co)** &nbsp;·&nbsp; **[app.allyvia.co](https://app.allyvia.co)**;·&nbsp; **[api.allyvia.co](https://api.allyvia.co/swagger)**
 
 <br />
 
@@ -104,8 +104,7 @@ Software is the entry point. The full model expands through payments revenue and
 
 <div align="center">
 
-**[allyvia.co](https://allyvia.co)** &nbsp;·&nbsp; **[app.allyvia.co](https://app.allyvia.co)****[api.allyvia.co](https://api.allyvia.co/swagger)** &nbsp;
-
+**[allyvia.co](https://allyvia.co)** &nbsp;·&nbsp; **[app.allyvia.co](https://app.allyvia.co)**;·&nbsp; **[api.allyvia.co](https://api.allyvia.co/swagger)**
 *Built for fashion retail. Shipping fast.*
 
 </div>
