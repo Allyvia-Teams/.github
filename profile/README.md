@@ -104,7 +104,7 @@ Software is the entry point. The full model expands through payments revenue and
 
 <div align="center">
 
-**[allyvia.co](https://allyvia.co)** &nbsp;·&nbsp; **[app.allyvia.co](https://app.allyvia.co)**
+**[allyvia.co](https://allyvia.co)** &nbsp;·&nbsp; **[app.allyvia.co](https://app.allyvia.co)****[allyvia.co](https://api.allyvia.co)** &nbsp;
 
 *Built for fashion retail. Shipping fast.*
 
